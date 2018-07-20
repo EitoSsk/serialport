@@ -1,0 +1,14 @@
+C:\Users\sasaki.TAROT\Documents\Visual Studio 2015\Projects\HelloWPFApp\HelloWPFApp\bin\Debug\HelloWPFApp.exe.config
+C:\Users\sasaki.TAROT\Documents\Visual Studio 2015\Projects\HelloWPFApp\HelloWPFApp\bin\Debug\HelloWPFApp.exe
+C:\Users\sasaki.TAROT\Documents\Visual Studio 2015\Projects\HelloWPFApp\HelloWPFApp\bin\Debug\HelloWPFApp.pdb
+C:\Users\sasaki.TAROT\Documents\Visual Studio 2015\Projects\HelloWPFApp\HelloWPFApp\obj\Debug\HelloWPFApp.csprojResolveAssemblyReference.cache
+C:\Users\sasaki.TAROT\Documents\Visual Studio 2015\Projects\HelloWPFApp\HelloWPFApp\obj\Debug\Greeting.g.cs
+C:\Users\sasaki.TAROT\Documents\Visual Studio 2015\Projects\HelloWPFApp\HelloWPFApp\obj\Debug\App.g.cs
+C:\Users\sasaki.TAROT\Documents\Visual Studio 2015\Projects\HelloWPFApp\HelloWPFApp\obj\Debug\HelloWPFApp_MarkupCompile.cache
+C:\Users\sasaki.TAROT\Documents\Visual Studio 2015\Projects\HelloWPFApp\HelloWPFApp\obj\Debug\HelloWPFApp_MarkupCompile.lref
+C:\Users\sasaki.TAROT\Documents\Visual Studio 2015\Projects\HelloWPFApp\HelloWPFApp\obj\Debug\Greeting.baml
+C:\Users\sasaki.TAROT\Documents\Visual Studio 2015\Projects\HelloWPFApp\HelloWPFApp\obj\Debug\HelloWPFApp.g.resources
+C:\Users\sasaki.TAROT\Documents\Visual Studio 2015\Projects\HelloWPFApp\HelloWPFApp\obj\Debug\HelloWPFApp.Properties.Resources.resources
+C:\Users\sasaki.TAROT\Documents\Visual Studio 2015\Projects\HelloWPFApp\HelloWPFApp\obj\Debug\HelloWPFApp.csproj.GenerateResource.Cache
+C:\Users\sasaki.TAROT\Documents\Visual Studio 2015\Projects\HelloWPFApp\HelloWPFApp\obj\Debug\HelloWPFApp.exe
+C:\Users\sasaki.TAROT\Documents\Visual Studio 2015\Projects\HelloWPFApp\HelloWPFApp\obj\Debug\HelloWPFApp.pdb
